@@ -1,4 +1,4 @@
-package com.example.admin.lab6;
+package com.example.admin.myapplication;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -103,3 +103,4 @@ public class DatabaseHelper extends SQLiteOpenHelper{
     }
 
 }
+

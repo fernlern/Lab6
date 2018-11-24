@@ -1,4 +1,4 @@
-package com.example.admin.lab6;
+package com.example.admin.myapplication;
 
 public class Student {
     public static final String TABLE_NAME = "students";

@@ -1,4 +1,4 @@
-package com.example.admin.lab6;
+package com.example.admin.myapplication;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -14,9 +14,6 @@ public class StudentAdapter extends RecyclerView.Adapter<StudentAdapter.MyViewHo
 
     private Context context;
     private List<Student> studentList;
-
-    public void notifyItemChanged(int position) {
-    }
 
     public class MyViewHolder extends RecyclerView.ViewHolder {
         public TextView idTextView;

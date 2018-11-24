@@ -1,4 +1,4 @@
-package com.example.admin.lab6;
+package com.example.admin.myapplication;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -62,3 +62,4 @@ public class RecyclerTouchListener implements RecyclerView.OnItemTouchListener {
 
     }
 }
+

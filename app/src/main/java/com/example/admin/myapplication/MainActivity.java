@@ -1,4 +1,4 @@
-package com.example.admin.lab6;
+package com.example.admin.myapplication;
 
 import android.content.DialogInterface;
 import android.support.v7.app.AlertDialog;
@@ -162,3 +162,4 @@ public class MainActivity extends AppCompatActivity {
 
 
 }
+
